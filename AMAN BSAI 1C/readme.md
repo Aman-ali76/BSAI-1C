@@ -128,5 +128,3 @@ df['Distance (km)'].plot(kind='hist',title="Histogram",color='orange')
   - **University**: Superior University, Gold Campus, Lahore
 
 ---
-
-## HI
