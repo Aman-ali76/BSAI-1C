@@ -1,7 +1,7 @@
 # Data Analysis Project
 
 
-Welcome to the **Data Analysis Project**! This project covers data loading, cleaning, preprocessing, and visualization using **Python** and **Pandas**. Below are all the details, screenshots, and the explanation of functionality of the project.
+**Data Analysis Project**! This project covers data loading, cleaning, preprocessing, and visualization using **Python** and **Pandas**. Below are all the details, screenshots, and the explanation of functionality of the project.
 
 
 
@@ -29,10 +29,10 @@ This project analyzes and visualizes data to uncover patterns, and insights. By 
 
 ## Features
 
-- **Data Loading**: Read data from CSV files into Pandas DataFrames.
+- **Data Loading**: Read data from CSV files into Pandas DataFrame.
 - **Data Cleaning**: Handle missing values and rename columns.
 - **Statistical Analysis**: Generate summaries like mean, mode, and median.
-- **Visualization**: Create interactive and static plots.
+- **Visualization**: Create static plots.
 - **observations**: Derive meaningful results from the data.
 
 ---
@@ -49,7 +49,7 @@ This project analyzes and visualizes data to uncover patterns, and insights. By 
 
 ### Steps
 
-1. Clone the repository or download the project files.
+1. Clone the repository.
 2. Open the `data_analysis.ipynb` notebook in Jupyter.
 3. Run the notebook cells sequentially to reproduce the analysis.
 
@@ -105,8 +105,8 @@ df['Distance (km)'].plot(kind='hist',title="Histogram",color='orange')
 
 ### observations
 
-1. **Trend Analysis**: The data reveals a clear upward/downward trend in Delivery Data Set.
-2. **Missing Values**: Successfully handled NULL values, improving data quality.
+1. **Results**: This program succeffully convert raw dat into meaningful data.
+2. **Missing Values**: Successfully handled NULL values that improves data quality.
 
 ### Visualizations
 
